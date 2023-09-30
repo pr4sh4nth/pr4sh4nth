@@ -3,7 +3,6 @@
 - 👋 I’m Prashanth. 
 - 👀 I’m interested in all things related to Web Development.
 - 🌱 I’m currently learning how to code better with JavaScript.
-- 🎢 I will then move on to learn Backend languages and frameworks like C# and .NET.
 - 💞️ I’m looking to collaborate on all things related to Web Development.
 - 📫 How to reach me: Email me at sutty.prashanth@gmail.com
 
